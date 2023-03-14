@@ -6,7 +6,7 @@ Instructions for building your project can be found at
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 
 ### Some of additional features :
-    * under development
+    * split into different detail functions
 
 ### Description :
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
@@ -29,3 +29,4 @@ For development, you can use `main.py` to test your `calculate()` function. Clic
 We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
 
 #### Test Result
+![complete](img/complete.jpg)
