@@ -1,5 +1,6 @@
 # Mean-Variance-Standard Deviation Calculator
-#### Solution running on : https://replit.com/@ViktoriusSuwand/Mean-Variance-Standard-Deviation-Calculator
+
+#### Documentation can be found on : [https://github.com/viktoriussuwandi/Mean-Variance-Standard-Deviation-Calculator](https://github.com/viktoriussuwandi/Mean-Variance-Standard-Deviation-Calculator)
 
 This is the complete Mean-Variance-Standard Deviation Calculator project. 
 Instructions for building the project can be found at 
